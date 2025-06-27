@@ -1,0 +1,100 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+<style>
+                            @import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+</style>
+
+          
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.image-logo{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+ul{
+  list-style: none;
+  font-style:initial;
+  
+}
+.nav-bar{
+  background-color: cornflowerblue;
+  margin: 0px;
+  padding: 0px;
+  
+  
+}
+.list-iteams{
+  display: flex;
+  justify-content: end;
+  margin-right: 40px;
+  gap: 10px;
+  margin: 0%;
+  color: aliceblue;
+}
+ .biryani-heading{
+  font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+  font-size: 40px;
+  font-weight: 600px;
+  padding: 0px 18px;
+  margin: 10px ;
+ }
+ .biryani-para{
+font-size: 20px;
+margin: 0px 25px;
+gap: 0px;
+ }
+ *{
+  font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+ }
+ .biryani-heading2{
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+  margin: 30px 25px;
+ }
+ .biryani-content{
+  font-family: Gilroy, Arial, sans-serif !important;
+cursor:default;
+ }
+ .rating-section{
+  display: flex;
+  align-items: center;
+  margin: 2px;
+ }
+ .biryani-image1{
+  width: 286px;
+  height: 186px;
+  border-radius: 16px;
+  object-fit: cover;
+
+ }
+ .biryani-image1:hover{
+   box-sizing: inherit;
+ }
+ p{
+  
+  font-family: Gilroy;
+  margin: 2px  ;
+  
+ }
+ .Big{
+  margin: 2px;
+ }
+ .biryani-image{
+  padding: 0px 30px;
+  cursor: pointer;
+ }
+ .biryani-image:hover{
+ scale: 2px;
+ }
+ .main-biryani{
+  display: flex;
+  margin: 0px 0px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ }
+ 
